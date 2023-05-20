@@ -1,7 +1,7 @@
 # VisualFedRecAttack
 This is the implementation of our paper "[Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures](https://arxiv.org/pdf/2305.08183)".
 
-# Citation
+<!-- # Citation
 ```
 @article{yuan2023manipulating,
   title={Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures},
@@ -9,5 +9,5 @@ This is the implementation of our paper "[Manipulating Visually-aware Federated 
   journal={arXiv preprint arXiv:2305.08183},
   year={2023}
 }
-```
+``` -->
 
